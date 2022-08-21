@@ -6,7 +6,10 @@ Marcin Klaczak
 mail: marcin.klaczak@gmail.com
 github: marklac
 discord: Marcin Klaczak#1143  
-Filip Augustyński  
+Filip Augustyński
+mail: fkaugustynski@gmail.com
+github: red-zepp
+discord: Sagarmath#3491  
 Divyansh Mangal  
 Aravinth Balaji Ravichandran  
 Revathy Ayengar  
